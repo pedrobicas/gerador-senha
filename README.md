@@ -1,2 +1,2 @@
 # gerador-senha
-Gerador de senha feito em html, css e javascript
+[Gerador de senha](https://pedrobicas.github.io/gerador-senha/) feito em html, css e javascript
